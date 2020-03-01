@@ -1,0 +1,4 @@
+{
+    "app_command": "sample-app",
+    "repo_name": "{{cookiecutter.app_command}}"
+}
